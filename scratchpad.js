@@ -1,6 +1,6 @@
 'use strict'
 
-const NUMBER_OF_USER = 4 //Change this number as you wanted
+const NUMBER_OF_USER = 4
 let usersList = new Set([])
 
 class User{
