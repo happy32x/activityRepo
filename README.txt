@@ -1,1 +1,3 @@
-# Ce dépôt est mon projet d'activité \n\n
+﻿# Ce dépôt est mon projet d'activité
+
+Je décrit mon projet en détail...
